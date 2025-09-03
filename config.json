@@ -1,0 +1,11 @@
+{
+  "csv_dir": "./Fitabase Data 4.12.16-5.12.16",
+  "csv_glob": "*.csv",
+  "csv_path": null,
+  "sqlite_db_path": "./fitbit.db",
+  "sqlite_overwrite": true,
+  "connection_string": "sqlite:///./fitbit.db",
+  "table": "your_table_name",
+  "schema": null,
+  "where": null
+}
